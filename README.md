@@ -15,3 +15,4 @@ You are very welcome to contribute to this project via a pull request. To ensure
    
    * _(optionally)_ **email.eml**: a copy of the notifiation e-mail in eml format, including headers. You should ensure you have stripped any personally identifiable information by find and replace your name with `REDACTED`, your e-mail with `redacted@redacted.com`, and any special links, i.e. login
 
+   * And feel free to add anything else of relevance to the breach, i.e. post-notification updates via the organisations website.
