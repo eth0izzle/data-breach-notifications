@@ -1,6 +1,6 @@
 # Data Breach Notifications
 
-This repository serves as a collection of data breach notifications. It is not meant to analyse the language or messaging used
+This repository serves as a collection of data breach notifications. It is not meant to analyse the notifications themselves but merely serve as an archive.
 
 ## Contributing
 
