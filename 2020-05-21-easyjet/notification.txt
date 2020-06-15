@@ -1,0 +1,33 @@
+Notice of cyber security incident – be alert to phishing emails 	
+	
+Dear Customer,
+
+I wanted to write to you personally in regards to a recent cyber security incident at easyJet.
+
+As you may have heard, we announced on 19th May 2020 that we were the target of an attack from a highly sophisticated source. As soon as we became aware of the attack, we took immediate steps to manage and respond to the incident, closing off the unauthorised access. We engaged leading forensic experts to investigate the issue and we also notified the National Cyber Security Centre and the Information Commissioner’s Office (ICO).
+
+Our investigation found that your name, email address, and travel details were accessed for the easyJet flights or easyJet holidays you booked between 17th October 2019 and 4th March 2020. Your passport and credit card details were not accessed, however information including where you were travelling from and to, your departure date, booking reference number, the booking date and the value of the booking were accessed. 
+
+We are very sorry this has happened.
+
+Please be extra careful about phishing attacks
+
+There is no evidence that personal information of any nature has been misused but please do be extra careful if you receive any unsolicited communications, particularly if they claim to be from either easyJet or easyJet holidays. Please note that we will never contact you unprompted to ask for your account details or security information, and we will never ask you to disclose your passwords, or to change your passwords on your easyJet account.
+
+You do not need to take any action apart from continuing to be alert as you would normally be, especially with any unsolicited communications. To help you stay safe online, please remember: 
+
+- Do not open emails or attachments if you have any questions on the source
+- Make sure you know who you are dealing with before disclosing any personal information online
+- Always check links before clicking on them – you can do this by hovering over the link to see whether the source is recognisable. Do not click any link if you are unsure
+
+The ICO has very helpful information on its website, including an article related to phishing posted on 31st March 2020 entitled ‘Stay One Step Ahead of the Scammers’. The National Cyber Security Centre likewise has useful guidance, including an article entitled ‘Phishing attacks: dealing with suspicious emails and messages’.
+ 
+More information on the cyber incident with easyJet can be found on our website. Additionally, if you have any further questions, please email us at infoalert@easyjet.com
+
+Once again, we’re sorry that this attack has happened. We do take the safety and security of our customers’ information very seriously and will continue to take every action to protect it against any future attacks.
+
+Yours sincerely,
+	
+Johan Lundgren
+CEO, easyJet
+	
