@@ -1,0 +1,18 @@
+THIS IS A SERVICE MESSAGE
+Security Notice
+
+Hi REDACTED
+
+We respect the privacy of your personal information, which is why we are writing to advise you of an event that resulted in the possible disclosure of your personal data, but not including your payment card information.
+
+On the evening of the 20th of August, we were contacted by an individual who claimed they had obtained a number of our customers’ online shopping information. There is no evidence that Superdrug’s systems have been compromised. We believe the individual obtained customers’ email addresses and passwords from other websites and then used those credentials to access accounts on our website. The individual claims that they have obtained information on approximately 20,000 customers but we have only seen 386.
+We can confirm that your details are not one of the 386 customers affected.
+
+Customers’ names, addresses and, in some instances, date of birth, phone number and points balances may have been accessed. In line with good security practice, we are advising you to change your Superdrug.com password now and on an on-going, frequent basis.
+
+We are very sorry for the inconvenience and concern this has caused.
+
+We have contacted the Police and Action Fraud (the UK’s national fraud and cyber-crime arm) and will be offering them all the information they need for their investigation as we continue to take the responsibility of safeguarding our customers’ data incredibly seriously.
+
+Peter Macnab
+CEO of Superdrug
